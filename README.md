@@ -1,4 +1,5 @@
-This is the code of our recent work entitled WHANet: Weighted Hierarchical Attention for Lightweight SR
+This is the code of our recent work entitled WHANet: Weighted Hierarchical Attention for Lightweight SR,
+Including graphs of test results for some datasets,
 
 <!--
 **shywl/shywl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
