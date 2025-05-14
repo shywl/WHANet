@@ -1,5 +1,5 @@
-This is the code of our recent work entitled WHANet: Weighted Hierarchical Attention for Lightweight SR,
-Including graphs of test results for some datasets,
+This is the code of our recent work entitled WHANet: Weighted Hierarchical Attention for Lightweight SR.
+Included are plots of test results on some of the datasets and the pre-trained weights that worked best on the URban100 dataset 4X
 
 <!--
 **shywl/shywl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
